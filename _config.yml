@@ -1,4 +1,5 @@
 # https://pages.github.com/themes/
+title: "λ沢.dev"
 remote_theme: lambdasawa/hacker@master
 plugins:
   - jekyll-remote-theme
