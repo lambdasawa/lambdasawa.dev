@@ -1,4 +1,4 @@
-# [λ沢.dev](https://www.lambdasawa.dev)
+# [λ沢.dev](https://lambdasawa.dev)
 
 ```txt
  __      _____    __          __          _
